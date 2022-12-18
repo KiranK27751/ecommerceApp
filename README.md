@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://kirank27751.github.io/products).
+This project was bootstrapped with [Create React App]([https://kirank27751.github.io/products](https://kirank27751.github.io/ecommerceApp/)).
 
 ## Available Scripts
 
