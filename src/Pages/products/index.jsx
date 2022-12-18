@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { API_END_POINTS } from '../../Services/endPoints'
 import Cards from '../../Components/Cards'
 import './products.scss'
 import { useDispatch, useSelector } from 'react-redux'
